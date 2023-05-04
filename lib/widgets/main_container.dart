@@ -65,7 +65,7 @@ class MainContainer extends StatelessWidget {
                         style: TextStyle(
                             fontSize: 13, color: ColorPellets.whitecolor),
                       ),
-                      Wsize.size5,
+                      Wsize.size10,
                       Text(
                         'Get Started',
                         style: TextStyle(

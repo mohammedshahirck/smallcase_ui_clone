@@ -54,7 +54,7 @@ class TrendingSmallcases extends StatelessWidget {
                   ),
                 ),
                 Container(
-                    height: size.height / 4.070,
+                    height: size.height / 3.9,
                     width: size.width / 1,
                     decoration: const BoxDecoration(
                       color: ColorPellets.hlepcontainer,
